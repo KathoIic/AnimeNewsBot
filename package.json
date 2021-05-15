@@ -1,0 +1,22 @@
+{
+  "name": "anime-news",
+  "version": "1.0.0",
+  "description": "Primo Bot Discord",
+  "main": "bot.js",
+  "author": "Stefano Quartuccio",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "^12.3.1",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.3.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "jsdom": "^16.5.3",
+    "mysql": "^2.18.1",
+    "node-gyp": "^8.0.0",
+    "opusscript": "0.0.8",
+    "rebuild": "^0.1.2",
+    "winston": "^3.2.1",
+    "ytdl-core": "^4.5.0"
+  }
+}
